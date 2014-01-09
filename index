@@ -1,0 +1,40 @@
+!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Lorem ipsum dolor sit amet</title>
+	<link href='http://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Ribeye' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<h1>Micol Bellantoni </h1>
+  <nav>
+    <ul>
+      <li><a href="#" id="current">Home</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#" id="fb">Facebook</a></li>
+      <li><a href="#" id="twitter">Twitter</a></li>
+    </ul>
+  </nav>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <div id="box">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus eros, venenatis ut lorem ut, imperdiet semper turpis. Integer vel porta nisl. Praesent a facilisis diam, in aliquam ante. In in velit dapibus, pellentesque arcu vel, dignissim magna. Phasellus massa mauris, fringilla consectetur enim a, dapibus accumsan purus. Aliquam rutrum auctor sapien a accumsan. Donec et elementum mauris, id rhoncus urna.
+
+Integer scelerisque sagittis diam, quis egestas ante semper quis. In iaculis est nec dolor facilisis, id fringilla augue consectetur. Curabitur eu massa facilisis, eleifend dui in, placerat enim. Maecenas blandit massa tincidunt, volutpat enim in, pellentesque augue. Nam luctus erat nibh, condimentum suscipit elit ornare at. Etiam condimentum lorem ut odio cursus, posuere euismod dui adipiscing. Donec condimentum ornare augue, a fringilla leo pretium a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor molestie sagittis. Cras eu consequat erat. Nulla posuere fermentum vestibulum.
+
+Vestibulum sed sagittis felis. Quisque vulputate orci nec dolor consectetur tincidunt. Morbi in luctus dui. Morbi sagittis ligula sit amet luctus molestie. Suspendisse non elit sed nibh vehicula semper. Mauris tincidunt enim blandit ipsum vulputate, non placerat arcu posuere. Ut at bibendum arcu. Aliquam lobortis cursus velit quis placerat. Integer facilisis feugiat purus et rutrum. Mauris adipiscing nec elit et molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lorem lacus, sollicitudin eu orci tempor, convallis tempor neque.
+
+Duis bibendum quam nec massa ultricies, eu venenatis quam rutrum. Morbi adipiscing velit at fringilla facilisis. Suspendisse volutpat massa eu tempus blandit. Maecenas eget sapien justo. Nulla vel augue facilisis, fermentum lorem a, tristique elit. Etiam fringilla massa hendrerit molestie consectetur. Etiam pellentesque congue nibh, at convallis orci pellentesque sed. Pellentesque nisi ligula, aliquet eu ante vitae, accumsan venenatis diam. Sed dapibus aliquet aliquet. Nunc posuere metus arcu.
+
+Pellentesque cursus venenatis justo eu volutpat. Vivamus commodo tincidunt nulla, vitae dignissim metus hendrerit eu. Morbi venenatis, purus tempus condimentum ornare, ligula nisi semper tellus, et euismod dolor diam a ipsum. Phasellus vestibulum tellus at quam rutrum posuere. Donec in condimentum neque, vel adipiscing quam. Nullam convallis, dolor ornare feugiat auctor, est erat condimentum ante, ac sollicitudin sapien velit nec urna. Nulla ultricies, tellus vel laoreet pretium, neque libero lacinia sem, ullamcorper pharetra purus nisl nec diam. Sed ut sodales dolor. Nunc adipiscing dictum felis eget vestibulum. Cras felis erat, sagittis id bibendum at, convallis at sem. Suspendisse id massa sollicitudin, posuere libero at, vulputate libero. Aenean ut imperdiet elit. Aenean rutrum ornare adipiscing. Duis laoreet nunc at risus volutpat rutrum. Ut eu dapibus massa. Fusce rhoncus pretium dolor in mollis.</p>
+  </div>
+
+</html>
